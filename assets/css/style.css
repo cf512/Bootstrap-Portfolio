@@ -47,6 +47,7 @@ body {
     margin: 30px 10px 100px 10px;
     padding: 15px;
     margin: 6% 6% 100px 6%;
+    font-size: 23px;
 }
 
 .aboutme {
@@ -79,6 +80,10 @@ p {
     position: fixed;
     bottom: 0;
     left: 0;
+}
+
+.card {
+    border: 8px solid rgba(0,0,0,.125);
 }
 
 /* unused so far */
